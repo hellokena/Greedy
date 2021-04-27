@@ -1,5 +1,4 @@
 import sys
-sys.setrecursionlimit(100000)
 n = int(sys.stdin.readline().rstrip())
 level = []
 cnt = 0
